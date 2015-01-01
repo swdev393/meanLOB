@@ -1,0 +1,17 @@
+{
+  "name": "NodejsApp1",
+  "version": "0.0.0",
+  "description": "NodejsApp1",
+  "main": "server.js",
+  "author": {
+    "name": "mason8",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "express": "^4.10.6",
+    "jade": "^1.8.2",
+    "mysql": "^2.5.4",
+    "mysql-crud": "^0.1.4"
+  }
+}
